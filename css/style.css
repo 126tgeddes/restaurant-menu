@@ -1,50 +1,11 @@
 [class^="col"] {
-    max-height: 200px;
-    border: 1px solid white;
+    /* max-height: 200px; */
+    /*border: 1px solid white;*/
 }
 
 .img-fluid{
     max-height: 100%;
 }
 body{
-    background-color: dodgerblue;
+    background-color: rgb(245, 141, 133)
 }
-
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #f8f8f8;
-  }
-
-  .menu-container {
-    max-width: 800px;
-    margin: 20px auto;
-    padding: 20px;
-    background-color: #fff;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    border-radius: 10px;
-  }
-
-  .section-title {
-    font-size: 24px;
-    font-weight: bold;
-    margin-bottom: 10px;
-  }
-
-  .menu-item {
-    margin-bottom: 15px;
-  }
-
-  .item-name {
-    font-weight: bold;
-  }
-
-  .item-description {
-    margin-bottom: 5px;
-  }
-
-  .item-price {
-    font-size: 16px;
-    color: #555;
-  }
