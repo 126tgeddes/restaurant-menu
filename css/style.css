@@ -1,5 +1,5 @@
 [class^="col"] {
-    /* max-height: 200px; */
+    /* max-height: 200px; 
     /*border: 1px solid white;*/
 }
 
@@ -7,5 +7,6 @@
     max-height: 100%;
 }
 body{
-    background-color: rgb(245, 141, 133)
+    background-color: rgb(245, 141, 133);
+    font-family: "Oswald", sans-serif;
 }
